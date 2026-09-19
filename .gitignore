@@ -1,4 +1,4 @@
 Fintrust_Data/
 *.csv
-Fintrust_Data/
-*.csv
+.ipynb_checkpoints/
+__pycache__/
